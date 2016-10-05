@@ -1,0 +1,11 @@
+.howlout-text-header {
+    font-size: 64px !important;
+    margin-bottom: 21px !important;
+    line-height: 0.9375;
+    font-weight: 700;
+    letter-spacing: 1px !important;
+}
+
+.howlout-title-header {
+    letter-spacing: -1px !important;
+}
