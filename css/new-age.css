@@ -156,9 +156,11 @@ header {
   background: -webkit-linear-gradient(to left, #66ffb7, #4bc6b4);
   /* Chrome 10-25, Safari 5.1-6 */
   /*background: url('../img/portrait-of-dog-wrapped-in-blanket.jpg'), linear-gradient(to left, #66ffb7, #4bc6b4);*/
-  background: url('../img/nature-animal-fur-wolf.jpeg'), linear-gradient(to left, #66ffb7, #4bc6b4);
+  background-image: url('../img/nature-animal-fur-wolf.jpeg');
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
+
+  background-position: 30% 30%;
 }
 header .header-content {
   text-align: center;
