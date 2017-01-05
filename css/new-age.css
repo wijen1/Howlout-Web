@@ -155,13 +155,17 @@ header {
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #66ffb7, #4bc6b4);
   /* Chrome 10-25, Safari 5.1-6 */
-  /*background: url('../img/portrait-of-dog-wrapped-in-blanket.jpg'), linear-gradient(to left, #66ffb7, #4bc6b4);*/
-  background-image: url('../img/nature-animal-fur-wolf.jpeg');
+  /*background: linear-gradient(to left, #62e09c, #4bc6b4);*/
+  background: url('../img/road-discover.jpeg'), linear-gradient(to left, #66ffb7, #4bc6b4);
+  /*background-image: url('../img/nature-animal-fur-wolf.jpeg');-->*/
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: cover;
   color: white;
 
   background-position: 30% 30%;
 }
+
+
 header .header-content {
   text-align: center;
   padding: 150px 0 50px;
