@@ -1,2 +1,2 @@
-# Howlout web site single page app
+# Howlout Web Showcase
 
